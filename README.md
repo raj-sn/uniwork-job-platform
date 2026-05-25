@@ -65,9 +65,9 @@ This system provides dedicated dashboards for both user roles, enabling efficien
 ## 📸 Screenshots
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/employee.png)
+![Employee Dashboard](Screenshots/Employer_Dashboard_1.jpeg)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/student.png)
+![Student Dashboard](Screenshots/Student_Dashboard_1.jpeg)
 
 ---
