@@ -1,2 +1,73 @@
-# uniwork-job-platform
-A university job matching platform with employer and student dashboards, featuring job tracking, notifications, and calendar-based task management, developed using PHP and MySQL.
+
+# 🎓 UniWork – University Job Matching Platform
+
+A web-based job matching platform designed for university students and employers.  
+This system provides dedicated dashboards for both user roles, enabling efficient job posting, tracking, and application management.
+
+---
+
+## 👨‍💻 My Contribution
+- Designed and developed:
+  - ✅ Employee Dashboard
+  - ✅ Student Dashboard
+- Implemented backend logic using PHP & MySQL
+- Built dynamic UI with job tracking, notifications, and calendar system
+- Integrated database-driven features for real-time updates
+
+---
+
+## 🚀 Features
+
+### 🧑‍💼 Employee Dashboard
+- Post and manage job listings
+- View job applications from students
+- Track upcoming deadlines using calendar
+- Receive notifications for applications
+- Profile management
+
+---
+
+### 🎓 Student Dashboard
+- Browse and apply for jobs
+- Track applied job status
+- View upcoming deadlines
+- Notifications for job updates
+- Personal profile management
+
+---
+
+## 📊 Key Functionalities
+- 🔔 Notification system
+- 📅 Interactive calendar for job deadlines
+- 📌 Job tracking (Pending / Confirmed / Completed)
+- 👤 User profile management
+- 📂 File upload system (profile images)
+
+---
+
+## 🛠 Technologies Used
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+
+---
+
+## 🎥 Demo Videos
+
+### 🔹 Employee Dashboard Demo
+👉 https://your-employee-demo-link
+
+### 🔹 Student Dashboard Demo
+👉 https://your-student-demo-link
+
+---
+
+## 📸 Screenshots
+
+### Employee Dashboard
+![Employee Dashboard](screenshots/employee.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student.png)
+
+---
