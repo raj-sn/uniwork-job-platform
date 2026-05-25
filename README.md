@@ -55,10 +55,10 @@ This system provides dedicated dashboards for both user roles, enabling efficien
 ## 🎥 Demo Videos
 
 ### 🔹 Employee Dashboard Demo
-👉 https://your-employee-demo-link
+👉 https://drive.google.com/file/d/1qVzuZGH2m1yhOSPz58I_XHnfuaU2TCt7/view?usp=drive_link
 
 ### 🔹 Student Dashboard Demo
-👉 https://your-student-demo-link
+👉 https://drive.google.com/file/d/1g97a9FlO9JGNHbKbm5Wf9iOkzkiOQi5n/view?usp=drive_link
 
 ---
 
